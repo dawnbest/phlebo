@@ -29,7 +29,7 @@
 
 	</form><br><br>
 
-</center>
+	</center>
 
 <table bgcolor="#c0c0c0" style="width:100%">
 
